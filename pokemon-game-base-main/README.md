@@ -1,1 +1,1 @@
-# Projeto base para o curso
+# Um projetinho simples, feito usando html, css e javascript
